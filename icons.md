@@ -1,6 +1,3 @@
-# Sweet Sixteen
-Sweet Sixteen is a 16x16px black and white (1bit) icon set.
-
 ![ac-adapter.png](icons/ac-adapter.png)
 ![accessories-calculator.png](icons/accessories-calculator.png)
 ![accessories-character-map.png](icons/accessories-character-map.png)
