@@ -53,6 +53,7 @@ img
 	margin:		8px;
 	background:	#f7f7f7;
 	vertical-align: top;
+	image-rendering: pixelated;
 	}
 
 a:link
