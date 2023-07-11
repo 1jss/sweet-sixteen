@@ -36,7 +36,7 @@ for image in images:
 			else:
 				im.putpixel((x,y), (255, 255, 255, 255))
 	im = im.convert('1', dither=Image.NONE)
-	im.save(newfolder + '/' + image)
+	im.save(newfolder + '/' + image.split('.')[0] + ".png")
 
 # Print confirmation
 print('All images converted to 1-bit and saved in folder ' + newfolder)
